@@ -1,7 +1,7 @@
- The pre-trained model first needs to be downloaded from https://drive.google.com/open?id=1_1ak4uhSWLVmj_SFHzYs5LneaxycvBDN and installed into the same directory as the python scripts. 
+The pre-trained model first needs to be downloaded from https://drive.google.com/open?id=1_1ak4uhSWLVmj_SFHzYs5LneaxycvBDN and installed into the same directory as the python scripts. 
 
 To run the system, use the camera.py python script. 
 
 This will display a basic UI, select either 1 to train the system or 2 to detect and object.
 
-Use either thumbs up or thumbs down or alternatively display your hand and the model will detect the image. 
+Use either thumbs up or thumbs down or alternatively display your hand and the model will detect the image. Please refer to the sample images for examples of the given gesture.
